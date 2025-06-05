@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fodenbasem.github.io/DACS/assets/logo.png" width="180" alt="DACS Logo">
+  <img src="image/logo.png" width="180" alt="DACS Logo">
 </p>
 
 <h1 align="center">🌐 DACS - Your Gateway to AI Faculty</h1>
