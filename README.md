@@ -1,142 +1,88 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>DACS - College of Artificial Intelligence</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+<p align="center">
+  <img src="https://fodenbasem.github.io/DACS/assets/logo.png" width="180" alt="DACS Logo">
+</p>
 
-  body {
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-    background: linear-gradient(135deg, #2c3e50, #4ca1af);
-    color: #f0f0f0;
-    direction: ltr;
-  }
+<h1 align="center">🌐 DACS - Your Gateway to AI Faculty</h1>
+<p align="center"><em>Understand. Choose. Succeed.</em></p>
 
-  header {
-    background: rgba(255, 255, 255, 0.1);
-    padding: 25px 20px;
-    text-align: center;
-    font-size: 2.5rem;
-    font-weight: 700;
-    letter-spacing: 4px;
-    color: #00ffe7;
-    text-shadow: 0 0 10px #00ffe7;
-    animation: slideDown 1s ease forwards;
-  }
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-English%20%26%20Arabic-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-informational?style=flat-square" />
+</p>
 
-  main {
-    max-width: 900px;
-    margin: 40px auto;
-    background: rgba(255, 255, 255, 0.07);
-    padding: 30px 40px;
-    border-radius: 15px;
-    box-shadow: 0 0 30px rgba(0, 255, 230, 0.3);
-    animation: fadeIn 2s ease forwards;
-  }
+---
 
-  h2 {
-    color: #00ffd0;
-    font-size: 2rem;
-    margin-bottom: 20px;
-    text-align: center;
-    text-shadow: 0 0 8px #00ffd0;
-  }
+## 📑 Table of Contents
+- [👋 Welcome](#-welcome-to-dacs)
+- [🔎 Explore the Four Majors](#-explore-the-four-majors)
+- [💡 Why DACS?](#-why-dacs)
+- [🔗 Visit the Website](#-visit-the-website)
+- [🛡️ Made by](#️-made-by-fady-basem)
 
-  p.description {
-    font-size: 1.25rem;
-    line-height: 1.6;
-    text-align: justify;
-  }
+---
 
-  details {
-    margin-top: 30px;
-    background: rgba(0, 255, 230, 0.1);
-    border-radius: 10px;
-    padding: 15px 20px;
-    box-shadow: 0 0 15px rgba(0, 255, 230, 0.3);
-    cursor: pointer;
-    transition: background 0.3s ease;
-  }
+## 👋 Welcome to DACS!
 
-  details:hover {
-    background: rgba(0, 255, 230, 0.2);
-  }
+Are you a new student in the Faculty of Artificial Intelligence and feeling overwhelmed by all the specializations?  
+**DACS** is here to help you understand each field clearly and guide you toward the right choice for your future.
 
-  summary {
-    font-weight: 700;
-    font-size: 1.3rem;
-    outline: none;
-    list-style: none;
-    cursor: pointer;
-    user-select: none;
-  }
+We designed this platform to provide:
+- ✅ Simplified overviews
+- ✅ Key concepts and skills in each field
+- ✅ Helpful resources to get you started
 
-  summary::-webkit-details-marker {
-    display: none;
-  }
+Start strong, and choose your path with confidence.  
+Let’s build your future in AI, Security, Data, and Development — together.
 
-  summary::after {
-    content: '▼';
-    float: right;
-    margin-right: 10px;
-    transition: transform 0.3s ease;
-  }
+---
 
-  details[open] summary::after {
-    transform: rotate(180deg);
-  }
+## 🔎 Explore the Four Majors
 
-  @keyframes slideDown {
-    0% {
-      opacity: 0;
-      transform: translateY(-30px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+### 🔐 Cyber Security
+> **Protect the Digital World**  
+> Learn ethical hacking, digital forensics, and how to secure systems from online threats.
 
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
-</head>
-<body>
-  <header>
-    DACS - College of Artificial Intelligence
-  </header>
+---
 
-  <main>
-    <h2>About the Site</h2>
-    <p class="description">
-      The DACS site provides a detailed explanation of all specializations of the College of Artificial Intelligence along with research summaries, allowing you to easily and clearly know the specialization suitable for you.
-    </p>
+### 📊 Data Science
+> **Turn Data Into Insights**  
+> Analyze massive datasets to uncover patterns and make data-driven decisions.
 
-    <details>
-      <summary>Specializations of the College of Artificial Intelligence</summary>
-      <p>
-        The college specializations include: Machine Learning, Natural Language Processing, Computer Vision, Robotics, and Intelligent Support Systems.
-        You can explore each specialization, its goals, and the latest related research through the site.
-      </p>
-    </details>
+---
 
-    <details>
-      <summary>Research Summaries</summary>
-      <p>
-        Simplified summaries of the latest research in various artificial intelligence fields are provided to keep you continuously informed and confidently choose your field of specialization.
-      </p>
-    </details>
-  </main>
-</body>
-</html>
+### 🤖 Artificial Intelligence
+> **Build Intelligent Machines**  
+> Learn machine learning, neural networks, and how to train models that mimic human intelligence.
+
+---
+
+### 💻 Software Development
+> **Code the Future**  
+> Develop applications, websites, and software systems with modern programming practices.
+
+---
+
+## 💡 Why DACS?
+
+- 🧠 Covers **all four key majors** of the AI faculty
+- 🧭 Designed specifically for **new students**
+- 📚 Offers **clear, beginner-friendly explanations**
+- 🎓 Helps you **understand and decide** on your best-fit specialization
+
+---
+
+## 🔗 Visit the Website
+
+Check out the full project here:  
+👉 [https://fodenbasem.github.io/DACS](https://fodenbasem.github.io/DACS)
+
+---
+
+## 🛡️ Made by Fady Basem
+
+<p align="center">
+  Made with ❤️ by <strong>Fady Basem</strong><br>
+  Helping students find clarity in the world of AI and beyond 🌟<br><br>
+  <a href="https://fodenbasem.github.io/DACS">🌐 Visit DACS Now ↗</a>
+</p>
