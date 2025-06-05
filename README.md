@@ -75,14 +75,14 @@ Let’s build your future in AI, Security, Data, and Development — together.
 ## 🔗 Visit the Website
 
 Check out the full project here:  
-👉 [https://fodenbasem.github.io/DACS](https://fodenbasem.github.io/DACS)
+👉 [https://fodenbasem.github.io/DACS]([https://fodenbasem.github.io/DACS](https://fodenbasem.github.io/DACS/Welcomepage.html))
 
 ---
 
 ## 🛡️ Made by Fady Basem
 
 <p align="center">
-  Made with ❤️ by <strong>Fady Basem</strong><br>
+  Made with ❤️ by <strong>Fady Basem - ( SilentN0va ) </strong><br>
   Helping students find clarity in the world of AI and beyond 🌟<br><br>
-  <a href="https://fodenbasem.github.io/DACS">🌐 Visit DACS Now ↗</a>
+  <a href="https://fodenbasem.github.io/DACS/Welcomepage.html">🌐 Visit DACS Now ↗</a>
 </p>
